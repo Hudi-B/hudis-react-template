@@ -14,6 +14,7 @@ This is a barebones react app template
   date-fns: 2.30.0  
   framer-motion: 10.16.16  
   react: 18.2.0  
+  react-bootstrap: 2.9.1  
   react-dom: 18.2.0  
   react-router: 6.20.1  
   react-router-dom: 6.20.1  
