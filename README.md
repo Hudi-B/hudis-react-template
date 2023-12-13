@@ -10,11 +10,13 @@ This is a barebones react app template
   axios: 1.6.2  
   bootstrap": 5.3.2  
   bootstrap-icons: 1.11.2  
+  core-js: 3.34.0  
   date-fns: 2.30.0  
   framer-motion: 10.16.16  
   react: 18.2.0  
   react-dom: 18.2.0  
   react-router: 6.20.1  
+  react-router-dom: 6.20.1  
   react-scripts: 5.0.1  
 
 ## Usage

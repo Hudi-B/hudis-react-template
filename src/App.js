@@ -3,8 +3,8 @@ import './App.css';
 
 function App() {
   return (
-    <div className='App'>
-      <h1>React app</h1>
+    <div>
+      <h1>Hudis React Template</h1>
     </div>
   );
 }
