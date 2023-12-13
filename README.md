@@ -4,11 +4,11 @@ This is a barebones react app template
 
 ## Dependencies
 
-  @testing-library/jest-dom: ^5.17.0  
+  @testing-library/jest-dom: 5.17.0  
   @testing-library/react: 13.4.0  
   @testing-library/user-event: 13.5.0  
   axios: 1.6.2  
-  bootstrap": 5.3.2  
+  bootstrap: 5.3.2  
   bootstrap-icons: 1.11.2  
   core-js: 3.34.0  
   date-fns: 2.30.0  
@@ -24,8 +24,8 @@ This is a barebones react app template
 Use the following steps to work with the template:
 
 1. Clone the repository
-2. Copy the contents to the desired local repo/directory
+2. Copy the contents to the desired local repo/directory(except .git)
 3. Open that folder in VSC
-4. Make sure you're in the right directory and enter "npm install ."
+4. Make sure you're in the right directory and enter "npm install ." into the terminal
 5. Wait for it to download the dependencies
 6. Happy coding!
